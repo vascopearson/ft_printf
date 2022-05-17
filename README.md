@@ -6,7 +6,7 @@
 > You will mainly learn about using a variable number of arguments.<br/>
 > This is Version 9 of this project<br/>
 
-For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/Libft/blob/master/libft_subject.pdf).
+For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/ft_printf/blob/master/ft_printf_subject.pdf).
 
 ## 🛠️ Usage
 
